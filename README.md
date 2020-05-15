@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Summer-of-codes-Lesson-2
+# Web beginner
 # Blogbeginner
 =======
 # SummerofCodes2020
