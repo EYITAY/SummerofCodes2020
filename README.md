@@ -8,7 +8,9 @@ Commiting your project
 
 create a new github repository.
 Goto the command line in VS code.(ctrl+`)
+
 Type following commands.
+
 git init
 
 git commit -m "first commit"
