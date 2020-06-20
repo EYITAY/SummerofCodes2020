@@ -22,3 +22,4 @@ git push -u origin master
 Thanks.
 >>>>>>> f39d50ac6897a752802c74b7f01596b4e4879be7
 # blogbeginner
+# Rin6
